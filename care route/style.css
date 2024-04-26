@@ -1,5 +1,5 @@
-html, body, #esri-map-container {
-    padding: 0px;
-    margin: 0px;
-    height: 100%;
-  }
+#map{
+    height: 400px;
+    width: 100%;
+  
+}
